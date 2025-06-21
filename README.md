@@ -20,20 +20,7 @@ A simple and responsive **To-Do List App** built using **React**. This project h
 
 ## 📂 Project Structure
 
-frontend/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── TodoInput.jsx
-│ │ ├── TodoItem.jsx
-│ │ └── TodoList.jsx
-│ ├── styles/
-│ │ └── app.css
-│ ├── App.jsx
-│ └── main.jsx
-├── package.json
-└── README.md
-
+![project_structure](image-1.png)
 ---
 
 ## 🛠️ Tech Stack
